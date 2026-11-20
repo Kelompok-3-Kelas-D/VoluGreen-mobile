@@ -1,6 +1,6 @@
 # 🌱 VoluGreen Mobile
 
-Aplikasi mobile (Flutter) untuk **VoluGreen** — platform yang menghubungkan masyarakat dengan komunitas/organisasi untuk kegiatan volunteer *sustainable living*. Aplikasi ini adalah klien dari web service Django REST Framework milik proyek web.
+**VoluGreen Mobile** adalah platform yang menghubungkan masyarakat dengan komunitas/organisasi untuk kegiatan volunteer *sustainable living*. Aplikasi ini adalah klien dari web service Django REST Framework milik proyek web yang telah dibuat sebelumnya.
 
 ## 👥 Anggota Kelompok 3 Kelas D
 
@@ -14,7 +14,7 @@ Aplikasi mobile (Flutter) untuk **VoluGreen** — platform yang menghubungkan ma
 
 ## 💡 Deskripsi Aplikasi
 
-Pengguna dapat mencari dan mendaftar kegiatan seperti aksi bersih lingkungan, urban farming, dan penanaman pohon. Penyelenggara mengelola lowongan dan kehadiran relawan serta mencatat dampak kegiatan; admin memverifikasi penyelenggara dan memoderasi konten.
+Relawan dapat mencari dan mendaftar kegiatan seperti aksi bersih lingkungan, urban farming, dan penanaman pohon. Penyelenggara mengelola lowongan dan kehadiran relawan serta mencatat dampak kegiatan. Admin memverifikasi penyelenggara dan memoderasi konten.
 
 ## 🔗 Tautan
 
